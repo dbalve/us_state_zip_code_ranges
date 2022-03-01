@@ -9,8 +9,7 @@ declare(strict_types=1);
  */
 
 
-const START = 'A', STOP = 'B';
-$zips = [
+const START = 'S', STOP = 'E', ZIPS = [
     'AK' => [[START => 99501, STOP => 99950]],
     'AL' => [[START => 35004, STOP => 36925]],
     'AR' => [[START => 71601, STOP => 72959]],
