@@ -53,7 +53,7 @@ const START = 'S', STOP = 'E', ZIPS = [
     'SC' => [[START => 29001, STOP => 29948]],
     'SD' => [[START => 57001, STOP => 57799]],
     'TN' => [[START => 37010, STOP => 38589]],
-    'TX' => [[START => 73301, STOP => 73399], [START => 73960, STOP => 37960], [START => 75001, STOP => 75501], [START => 75503, STOP => 79999], [START => 88510, STOP => 88599]],
+    'TX' => [[START => 73301, STOP => 73399], [START => 73960, STOP => 73960], [START => 75001, STOP => 75501], [START => 75503, STOP => 79999], [START => 88510, STOP => 88599]],
     'UT' => [[START => 84001, STOP => 84784]],
     'VA' => [[START => 20040, STOP => 20167], [START => 22001, STOP => 24658],],
     'VT' => [[START => 5001, STOP => 5495], [START => 5601, STOP => 5907]],
